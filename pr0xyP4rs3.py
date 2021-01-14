@@ -1,11 +1,11 @@
 import requests
 import sys
 
-url = sys.argv[2]
+
 proxies = {"http": "http://127.0.0.1:7777", "https": "http://127.0.0.1:7777"}
 
 def banner():
-	print (pyr)
+	
 	print " .-----------------------------.           "
 	print " |  Hi Hackers                 |           "
 	print ("|  Tool   : pr0xyP4rs3        |")
@@ -43,4 +43,4 @@ if (str(sys.argv[1]) == "-h" or str(sys.argv[1]) == "--help"):
 
 if (str(sys.argv[1]) == "-p" or str(sys.argv[1]) == "--parse"):
 	all()
-
+url = sys.argv[2]
