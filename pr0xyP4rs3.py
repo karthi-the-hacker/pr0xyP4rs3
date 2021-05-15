@@ -8,7 +8,7 @@ def banner():
 	
 	print " .-----------------------------.           "
 	print " |  Hi Hackers                 |           "
-	print ("|  Tool   : pr0xyP4rs3        |")
+	print " |  Tool   : pr0xyP4rs3        |"
 	print " |  Author : @karthi_the_hacker|           "
 	print " |           Jai Hind          |           "
 	print " '-----------------------------'           "
