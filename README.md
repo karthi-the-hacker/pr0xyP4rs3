@@ -5,10 +5,12 @@
 
 ![alt text](https://raw.githubusercontent.com/karthi-the-hacker/pr0xyP4rs3/main/logo.gif)
 
-Steps to install :
-
 im Happy to say this you dont need to install any third party service to run my tool 😃
 its pure Python ❤️️
+
+Steps to install :
+
+
 
 0. mkdir ~/recon &>/dev/null
 1. mkdir ~/tools &>/dev/null
