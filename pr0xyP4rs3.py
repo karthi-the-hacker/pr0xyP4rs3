@@ -7,16 +7,16 @@ proxies = {"http": "http://127.0.0.1:7777", "https": "http://127.0.0.1:7777"}
 
 def banner():
 	
-	print " .-----------------------------.           "
-	print " |  Hi Hackers                 |           "
-	print " |  Tool   : pr0xyP4rs3        |"
-	print " |  Author : @karthi_the_hacker|           "
-	print " |           Jai Hind          |           "
-	print " '-----------------------------'           "
-	print "                 ^      (\_/)    "
-	print "                 '----- (O.o)    "
-	print "                        (> <)    "
-	print " "
+	print (" .-----------------------------.           ")
+	print (" |  Hi Hackers                 |           ")
+	print (" |  Tool   : pr0xyP4rs3        |")
+	print (" |  Author : @karthi_the_hacker|           ")
+	print (" |           Jai Hind          |           ")
+	print (" '-----------------------------'           ")
+	print ("                 ^      (\_/)    ")
+	print ("                 '----- (O.o)    ")
+	print ("                        (> <)    ")
+	print (" ")
 
 
 def helpl():
